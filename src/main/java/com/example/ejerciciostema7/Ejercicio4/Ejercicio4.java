@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
     static Scanner sc = new Scanner(System.in);
-    public static void main(String[] args) {
+    public void Ejercicio4metodo() {
 
 
         Cuadricula1 cuadriculaJugador = new Cuadricula1();

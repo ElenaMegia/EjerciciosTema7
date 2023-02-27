@@ -2,7 +2,7 @@ package com.example.ejerciciostema7.Ejercicio1;
 
 public class Ejercicio1 {
     //Un método de instancia que permite simular la tirada de los dados, devolviendo el valor extraído aleatoriamente por los dados.
-    public static void main(String[] args) {
+    public void Ejercicio1metodo() {
 
         Dado dado1 = new Dado(6);
         Dado dado2 = new Dado(10);
